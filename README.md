@@ -3,6 +3,7 @@
 This project is a 3D-printed smart dustbin that opens the lid when your hand gets close, using an Arduino, an ultrasonic sensor, and a servo motor with a string mechanism.
 
 I made everything from scratch! 3D design, wiring, coding, testing.
+
 ---
 
 ## 🎥 Demo
