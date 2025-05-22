@@ -46,7 +46,7 @@ Coming soon !
 | `media/demo.mp4`      | Video showing final working model   |
 | `media/circuit.png`   | Tinkercad-generated circuit diagram |
 
-> **Note:** The ultrasonic sensor cutout in `bin lid mm.stl` is made to fit my sensor size. **Check that your sensor dimensions match** before printing. Resize if needed to ensure it fits.
+> **Note:** The ultrasonic sensor cutout in `bin body mm.stl` is made to fit my sensor size. **Check that your sensor dimensions match** before printing. Resize if needed to ensure it fits.
 
 ---
 
