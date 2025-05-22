@@ -14,12 +14,12 @@ Coming soon !
 ## 🛠️ Components
 - Arduino Uno
 - SG90 Servo Motor
-- Ultrasonic Sensor (single SIG pin)
+- Ultrasonic Sensor
 - Jumper wires
 - String (used instead of servo arm)
 - PLA filament (used for bin lid and body)
 - TPU filament (used for flexible wheels)
-- Power bank (USB 5V, instead of solar due to low voltage)
+- Power bank 
 
 ---
 
