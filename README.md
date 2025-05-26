@@ -8,6 +8,8 @@ I made everything from scratch! 3D design, wiring, coding, testing.
 
 ## 🎥 Demo
 
+https://github.com/user-attachments/assets/554ec292-c8a9-4672-9af2-762e023cff04
+
 <table>
   <tr>
     <td>
