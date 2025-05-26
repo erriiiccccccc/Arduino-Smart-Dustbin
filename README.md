@@ -11,8 +11,8 @@ I made everything from scratch! 3D design, wiring, coding, testing.
 <table>
   <tr>
     <td>
-      <a href="https://youtube.com/shorts/C3dCPq_3W3U?feature=share">
-        <img src="your-thumbnail.png" alt="Watch the video" width="400"/>
+      <a href="https://youtube.com/shorts/C3dCPq_3W3U?feature=share" target="_blank">
+        <img src="https://github.com/user-attachments/assets/563a0748-fa39-4495-9535-c0b6158071ca" alt="Watch the video" width="400"/>
       </a>
     </td>
     <td>
@@ -20,6 +20,7 @@ I made everything from scratch! 3D design, wiring, coding, testing.
     </td>
   </tr>
 </table>
+
 
 
 
