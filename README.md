@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/554ec292-c8a9-4672-9af2-762e023cff04
 <table>
   <tr>
     <td>
-      <a href="https://youtube.com/shorts/C3dCPq_3W3U?feature=share" target="_blank">
+      <a href="https://github.com/user-attachments/assets/554ec292-c8a9-4672-9af2-762e023cff04" target="_blank">
         <img src="https://github.com/user-attachments/assets/563a0748-fa39-4495-9535-c0b6158071ca" alt="Watch the video" width="400"/>
       </a>
     </td>
