@@ -7,24 +7,16 @@ I made everything from scratch! 3D design, wiring, coding, testing.
 ---
 
 ## 🎥 Demo
-
-https://github.com/user-attachments/assets/554ec292-c8a9-4672-9af2-762e023cff04
-
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/user-attachments/assets/554ec292-c8a9-4672-9af2-762e023cff04" target="_blank">
-        <img src="https://github.com/user-attachments/assets/563a0748-fa39-4495-9535-c0b6158071ca" alt="Watch the video" width="400"/>
-      </a>
+    <td width="50%">
+      <video src="https://github.com/user-attachments/assets/554ec292-c8a9-4672-9af2-762e023cff04" width="100%" controls></video>
     </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/563a0748-fa39-4495-9535-c0b6158071ca" alt="Photo" width="400"/>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/563a0748-fa39-4495-9535-c0b6158071ca" alt="Photo" width="100%"/>
     </td>
   </tr>
 </table>
-
-
-
 
 ---
 
