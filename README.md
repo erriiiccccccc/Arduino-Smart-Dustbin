@@ -8,7 +8,20 @@ I made everything from scratch! 3D design, wiring, coding, testing.
 
 ## 🎥 Demo
 
-<img src="https://github.com/user-attachments/assets/563a0748-fa39-4495-9535-c0b6158071ca" alt="IMG_8018" width="400"/>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/user-attachments/assets/b89cb8b0-0484-4ca6-aafb-e195de7b9612">
+        <img src="https://github.com/user-attachments/assets/b89cb8b0-0484-4ca6-aafb-e195de7b9612" alt="Video thumbnail" width="400"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/563a0748-fa39-4495-9535-c0b6158071ca" alt="IMG_8018" width="400"/>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
