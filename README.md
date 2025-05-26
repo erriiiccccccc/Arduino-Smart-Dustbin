@@ -7,8 +7,8 @@ I made everything from scratch! 3D design, wiring, coding, testing.
 ---
 
 ## 🎥 Demo
-https://github.com/user-attachments/assets/ee30b740-7009-4fd7-b032-fe1c119c3e7d
-![IMG_8018](https://github.com/user-attachments/assets/35b5c7a8-8b3b-4aa4-8740-d21145de3b7d)
+
+![IMG_8018](https://github.com/user-attachments/assets/563a0748-fa39-4495-9535-c0b6158071ca)
 
 ---
 
